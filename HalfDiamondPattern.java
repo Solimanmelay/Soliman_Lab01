@@ -1,4 +1,4 @@
-import java.util.Scanner; // to read an input, include the scanner class
+import java.util.Scanner; // to read an input, include the scanner class.......
 
 public class HalfDiamondPattern { // declare the public class name
     public static void main(String[] args) { // do not forget the main method, it is necessary
